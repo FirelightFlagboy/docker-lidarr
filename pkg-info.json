@@ -81,5 +81,7 @@
   "arch_asset_patterns": {
     "amd64": "^.*.linux-musl-core-x64.tar.gz$",
     "arm64": "^.*.linux-musl-core-arm64.tar.gz$"
-  }
+  },
+  "strip_v_prefix": false,
+  "allow_prerelease": false
 }
