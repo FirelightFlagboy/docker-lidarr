@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/FirelightFlagboy/gh-actions-workflows-docker-services/aab594706e19dd4afe38efa7bbc4c3de33dff0b3/pkg-info.schema.json",
   "name": "Lidarr",
-  "latest_version": "2.4.3.4248",
+  "latest_version": "2.5.3.4341",
   "versions": {
     "1.3.5.3530": {
       "amd64": {
@@ -73,6 +73,18 @@
         "filename": "Lidarr.master.2.4.3.4248.linux-musl-core-arm64.tar.gz",
         "download_url": "https://github.com/Lidarr/Lidarr/releases/download/v2.4.3.4248/Lidarr.master.2.4.3.4248.linux-musl-core-arm64.tar.gz",
         "digest": "sha512:5d82820b3dcb6ed98636e7c87595507ea11adb869c2756bdbd8230dec7607207814cb567609dd8e369b78c1c970a0505307b5b6016c9d40971b4245fe47329fd"
+      }
+    },
+    "2.5.3.4341": {
+      "amd64": {
+        "filename": "Lidarr.master.2.5.3.4341.linux-musl-core-x64.tar.gz",
+        "download_url": "https://github.com/Lidarr/Lidarr/releases/download/v2.5.3.4341/Lidarr.master.2.5.3.4341.linux-musl-core-x64.tar.gz",
+        "digest": "sha512:e51acc61d3e68d9cbc2a21698fe76d1313857b738749811255705c09bfbf54a0ac54e4f9e461eb23330aebe7ddeaebfb58afac69d3fdb3180abffc32c30f5b17"
+      },
+      "arm64": {
+        "filename": "Lidarr.master.2.5.3.4341.linux-musl-core-arm64.tar.gz",
+        "download_url": "https://github.com/Lidarr/Lidarr/releases/download/v2.5.3.4341/Lidarr.master.2.5.3.4341.linux-musl-core-arm64.tar.gz",
+        "digest": "sha512:2b9342abfd5e719324fba8e752436ca986e20ac09248aef7f0daa3fb2517d872548a0848ccc0c9e9f30f6b800e5d5fc3b6116d9bd89d2532ceed533ac5b2914a"
       }
     }
   },
